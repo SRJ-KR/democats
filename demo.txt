@@ -2,6 +2,6 @@ Hi this file is just a place holder and to show case the learning i have learned
 
 Creating Git direcotry  --done
 initializing git direcotry --done
-adding alias and email id
+adding alias and email id  --done
 branching
 merging
