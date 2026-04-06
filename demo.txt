@@ -1,7 +1,7 @@
 Hi this file is just a place holder and to show case the learning i have learned so far
 
-Creating Git direcotry
-initializing git direcotry
+Creating Git direcotry  --done
+initializing git direcotry --done
 adding alias and email id
 branching
 merging
